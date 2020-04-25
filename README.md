@@ -19,6 +19,7 @@ Api TodoList
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/)
 
 #  Dependencias
 
