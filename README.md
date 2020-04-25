@@ -35,7 +35,7 @@ Esse projeto é para ralização de um TodoList.
 
 - Os usuários serão capaz de criar tarefas.
 
-- Os usuários serão capaz de ditar tarefas.
+- Os usuários serão capaz de editar tarefas.
 
 - Os usuarios serão capaz de excluir tarefas.
 
